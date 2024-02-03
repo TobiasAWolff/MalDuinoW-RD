@@ -1,0 +1,94 @@
+LOCALE DE
+LED 255 0 0
+STRING Notfallgeschehen [
+ENTER
+STRING eE [
+ENTER
+STRING AVPU [
+ENTER
+ENTER
+STRING _______________________________________
+ENTER
+ENTER
+STRING A:
+ENTER
+STRING Atemwege [
+ENTER
+ENTER
+STRING B:
+ENTER
+STRING Atemtiefe [
+ENTER
+STRING Bewegung Brustkorb [
+ENTER
+STRING pathologische Atemgeräusche [
+ENTER
+STRING Einsatz Atemhilfsmuskulatur [
+ENTER
+STRING Zyanose [
+ENTER
+STRING gestaute Halsvenen [
+ENTER
+ENTER
+STRING C:
+ENTER
+STRING Radialispuls [
+ENTER
+STRING Rhythmus [
+ENTER
+STRING Haut [
+ENTER
+STRING Recap [
+ENTER
+STRING Exsikkose [
+ENTER
+STRING Blutungen [
+ENTER
+STRING EKG [
+ENTER
+ENTER
+STRING D:
+ENTER
+STRING GCS [
+ENTER
+STRING ZOPS [
+ENTER
+STRING FAST [
+ENTER
+STRING MDS [
+ENTER
+STRING Pupillen [
+ENTER
+STRING Intox [
+ENTER
+STRING Nausea, Vertigo, Meningismus [
+ENTER
+ENTER
+STRING E:
+ENTER
+ENTER
+LED 0 0 255
+STRING _______________________________________
+ENTER
+ENTER
+STRING S [
+ENTER
+STRING A [
+ENTER
+STRING M [
+ENTER
+STRING P [
+ENTER
+STRING L [
+ENTER
+STRING E [
+ENTER
+STRING R [
+ENTER
+ENTER
+STRING _______________________________________
+ENTER
+ENTER
+STRING Transport verläuft eventlos/komplikationslos
+ENTER
+LED 0 255 0

@@ -1,0 +1,97 @@
+LOCALE DE
+LED 255 0 0
+UP
+REPEAT 100
+DOWN
+REPEAT 1
+LEFT
+STRING keine c, keine HWS-V., vital stabil
+RIGHT
+DOWN
+LEFT
+STRING Alert
+DOWN
+REPEAT 5
+LEFT
+STRING Atmung vorhanden, frei, sicher
+DOWN
+REPEAT 3
+LEFT
+STRING normal
+RIGHT
+DOWN
+LEFT
+STRING seitengleiche Thoraxexkursionen
+RIGHT
+DOWN
+LEFT
+STRING keine patholog. Atemgeräusche
+RIGHT
+DOWN
+LEFT
+STRING keinen
+RIGHT
+DOWN
+LEFT
+STRING keine
+RIGHT
+DOWN
+LEFT
+STRING keine
+DOWN
+REPEAT 3
+LEFT
+STRING bds. gut tastbar
+RIGHT
+DOWN
+LEFT
+STRING rhythmisch, regelmäßig
+RIGHT
+DOWN
+LEFT
+STRING rosig, warm, trocken
+RIGHT
+DOWN
+LEFT
+STRING peripher & zentral <2s
+RIGHT
+DOWN
+LEFT
+STRING nicht vorhanden
+RIGHT
+DOWN
+LEFT
+STRING Blutungsräume unauffällig; keine äußeren Blutungen
+RIGHT
+DOWN
+LEFT
+STRING nicht notwendig
+DOWN
+REPEAT 3
+LEFT
+STRING 15
+RIGHT
+DOWN
+LEFT
+STRING orientiert
+RIGHT
+DOWN
+LEFT
+STRING nicht notwendig
+RIGHT
+DOWN
+LEFT
+STRING OEx/UEx bds. unauffällig
+RIGHT
+DOWN
+LEFT
+STRING isokor, lichtreaktiv
+RIGHT
+DOWN
+LEFT
+STRING negativ
+RIGHT
+DOWN
+LEFT
+STRING negativ
+LED 0 255 0

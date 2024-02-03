@@ -1,0 +1,4 @@
+LOCALE DE
+LED 255 0 0
+STRING Pat von Pflege übergeben worden; Pflege hat vorher mit Zielort kommuniziert;
+LED 0 255 0

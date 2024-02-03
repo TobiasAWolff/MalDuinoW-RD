@@ -1,0 +1,32 @@
+LOCALE DE
+LED 255 0 0
+DOWN
+REPEAT 100
+ENTER
+ENTER
+STRING _______________________________________
+ENTER
+STRING NOTKOMPETENZ
+ENTER
+STRING Indikation laut RK-Algorithmus:
+ENTER
+STRING folgende Kontraindikationen beachtet/besprochen:
+ENTER
+STRING Abbruch wegen Kontraindikation:
+ENTER
+STRING Pat über Notwendigkeit, Wirkung, mögliche Nebenwirkungen sowie Komplikationen aufgeklärt
+ENTER
+STRING Pat willigt mündlich ein
+ENTER
+STRING Notarzt verständigt/informiert
+ENTER
+STRING Anzahl und Ort der Punktionsversuche:
+ENTER
+STRING Komplikationen Venenzugang
+ENTER
+STRING Verabreichte Medikation:
+ENTER
+STRING Komplikationen?
+ENTER
+STRING Ergebnis Erfolgskontrolle:
+LED 0 255 0

@@ -1,0 +1,13 @@
+LOCALE DE
+LED 255 0 0
+DOWN
+REPEAT 100
+ENTER
+ENTER
+STRING _______________________________________
+ENTER
+ENTER
+STRING Pat wünscht dezidiert keinen Transport in eine Behandlungseinrichtung. RD sieht ebenfalls keine Indikation für eine klinische Behandlung. Dennoch wird Pat von RD ein Transport angeboten. Pat lehnt trotzdem ab.
+ENTER
+STRING Pat ist vollkommen geschäfts- und zurechnungsfähig und versteht alle möglichen Konsequenzen; RD teilt Pat mit, dass bei Verschlechterung des Zustandes sofort nochmals der Notruf gewählt werden soll, zudem sollte ein Arzt zeitnah aufgesucht werden;
+LED 0 255 0

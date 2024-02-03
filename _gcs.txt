@@ -1,0 +1,12 @@
+LOCALE DE
+LED 255 0 0
+DOWN
+REPEAT 100
+ENTER
+STRING Augen öffnen: Spontan (4 Punkte) / auf Ansprache (3 Punkte) / auf Schmerzreiz (2 Punkte) / kein Öffnen (1 Punkt)
+ENTER
+STRING Verbal: orientiert (5 Punkte) / desorientiert (4 Punkte) / einzelne Worte (3 Punkte) / sinnlose Laute (2 Punkte) / keine (1 Punkt)
+ENTER
+STRING Motorisch: auf Aufforderung (6 Punkte) / gezielte Bewegung (5 Punkte) / ungezielte Bewegung (4 Punkte) / Beugesynergismen (3 Punkte) / Strecksynergismen (2 Punkte) / keine (1 Punkt)
+ENTER
+LED 0 255 0

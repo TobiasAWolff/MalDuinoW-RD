@@ -1,0 +1,33 @@
+LOCALE DE
+LED 255 0 0
+UP
+REPEAT 100
+DOWN
+REPEAT 17
+LEFT
+STRING bds. gut tastbar
+RIGHT
+DOWN
+LEFT
+STRING rhythmisch, regelmäßig
+RIGHT
+DOWN
+LEFT
+STRING rosig, warm, trocken
+RIGHT
+DOWN
+LEFT
+STRING peripher & zentral <2s
+RIGHT
+DOWN
+LEFT
+STRING nicht vorhanden
+RIGHT
+DOWN
+LEFT
+STRING Blutungsräume unauffällig; keine äußeren Blutungen
+RIGHT
+DOWN
+LEFT
+STRING nicht notwendig
+LED 0 255 0

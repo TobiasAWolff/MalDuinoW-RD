@@ -1,0 +1,10 @@
+LOCALE DE
+LED 255 0 0
+STRING eE Pat vital stabil, wach, liegt am Boden
+ENTER
+STRING Möchte/benötigt nur Aufstehhilfe & gibt an, dass kein medizinisches Problem vorliegt. Pat gibt keine Schmerzen/Beschwerden an.
+ENTER
+STRING Pat ist nicht hingefallen bzw. gestürzt. Pat ist leicht gefallen/gestürzt, aber nicht auf den Kopf.
+ENTER
+STRING Wir Helfen dem Pat auf & checken, dass durch das zu Boden gehen nichts verletzt wurde. RD teilt Pat mit, dass bei Verschlechterung des Zustandes sofort nochmals der Notruf gewählt bzw. der HSN-Knopf gedrückt werden soll, zudem sollte ein Arzt zeitnah aufgesucht werden;
+LED 0 255 0

@@ -1,0 +1,29 @@
+LOCALE DE
+LED 255 0 0
+UP
+REPEAT 100
+DOWN
+REPEAT 10
+LEFT
+STRING normal
+RIGHT
+DOWN
+LEFT
+STRING seitengleiche Thoraxexkursionen
+RIGHT
+DOWN
+LEFT
+STRING keine patholog. Atemgeräusche
+RIGHT
+DOWN
+LEFT
+STRING keinen
+RIGHT
+DOWN
+LEFT
+STRING keine
+RIGHT
+DOWN
+LEFT
+STRING keine
+LED 0 255 0

@@ -1,0 +1,35 @@
+LOCALE DE
+LED 255 0 0
+STRING Notfallgeschehen [
+ENTER
+ENTER
+STRING _______________________________________
+ENTER
+ENTER
+STRING ABC - Stabil
+ENTER
+STRING D - Orientiert
+ENTER
+ENTER
+ENTER
+STRING S [
+ENTER
+STRING A [
+ENTER
+STRING M [
+ENTER
+STRING P [
+ENTER
+STRING L [ 
+ENTER
+STRING E [
+ENTER
+STRING R [
+ENTER
+ENTER
+ENTER
+STRING _______________________________________
+ENTER
+ENTER
+STRING Transport verläuft eventlos
+LED 0 255 0

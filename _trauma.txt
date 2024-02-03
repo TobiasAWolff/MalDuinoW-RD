@@ -1,0 +1,25 @@
+LOCALE DE
+LED 255 0 0
+UP
+REPEAT 100
+DOWN
+STRING Position Pat [
+ENTER
+STRING Umfeld [
+ENTER
+STRING Kinematik [
+ENTER
+STRING Anwesende [
+ENTER
+STRING Zeitpunkt [
+ENTER
+ENTER
+STRING _______________________________________
+ENTER
+ENTER
+DOWN
+REPEAT 33
+ENTER
+STRING Ganzkörper [
+ENTER
+LED 0 255 0

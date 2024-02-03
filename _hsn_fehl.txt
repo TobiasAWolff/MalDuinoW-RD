@@ -1,0 +1,8 @@
+LOCALE DE
+LED 255 0 0
+STRING eE Pat vital stabil, wach, mobil
+ENTER
+STRING Pat überrascht über erscheinen des Rettungsdienstes, gibt an, versehentlich/unabsichtlich auf den Knopf gekommen zu sein. Möchte/benötigt keine Hilfe & gibt an, dass kein medizinisches Problem vorliegt. Pat gibt keine Schmerzen/Beschwerden an.
+ENTER
+STRING Wir weisen nochmals kurz auf die Vermeidung von Fehleinsätzen durch ordnungsgemäßen Umgang hin.
+LED 0 255 0
