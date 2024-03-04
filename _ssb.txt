@@ -1,4 +1,4 @@
 LOCALE DE
 LED 255 0 0
-STRING siehe Stammdatenblatt (Foto)
+STRING siehe Datenblatt / Arztbrief (Foto)
 LED 0 255 0

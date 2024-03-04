@@ -6,6 +6,7 @@ ENTER
 ENTER
 STRING _______________________________________
 ENTER
+ENTER
 STRING NOTKOMPETENZ
 ENTER
 STRING Indikation laut RK-Algorithmus:

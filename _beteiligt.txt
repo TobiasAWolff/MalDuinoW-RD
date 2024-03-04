@@ -3,5 +3,9 @@ LED 255 0 0
 DOWN
 REPEAT 100
 ENTER
-STRING Beteiligte Fahrzeuge:
+ENTER
+STRING _______________________________________
+ENTER
+ENTER
+STRING Beteiligte Einsatzmittel:
 LED 0 255 0

@@ -6,8 +6,4 @@ DOWN
 REPEAT 1
 LEFT
 STRING keine c, keine HWS-V., vital stabil
-RIGHT
-DOWN
-LEFT
-STRING Alert
 LED 0 255 0

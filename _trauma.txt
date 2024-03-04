@@ -3,6 +3,7 @@ LED 255 0 0
 UP
 REPEAT 100
 DOWN
+REPEAT 1
 STRING Position Pat [
 ENTER
 STRING Umfeld [
@@ -13,13 +14,9 @@ STRING Anwesende [
 ENTER
 STRING Zeitpunkt [
 ENTER
-ENTER
-STRING _______________________________________
-ENTER
-ENTER
 DOWN
-REPEAT 33
+REPEAT 32
+LEFT
 ENTER
 STRING Ganzkörper [
-ENTER
 LED 0 255 0

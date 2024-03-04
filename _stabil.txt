@@ -1,6 +1,6 @@
 LOCALE DE
 LED 255 0 0
-STRING Notfallgeschehen [
+STRING Notfallgeschehen [ 
 ENTER
 ENTER
 STRING _______________________________________
@@ -12,20 +12,19 @@ STRING D - Orientiert
 ENTER
 ENTER
 ENTER
-STRING S [
+STRING S [ 
 ENTER
-STRING A [
+STRING A [ 
 ENTER
-STRING M [
+STRING M [ 
 ENTER
-STRING P [
+STRING P [ 
 ENTER
 STRING L [ 
 ENTER
-STRING E [
+STRING E [ 
 ENTER
-STRING R [
-ENTER
+STRING R [ 
 ENTER
 ENTER
 STRING _______________________________________

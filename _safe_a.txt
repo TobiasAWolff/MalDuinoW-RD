@@ -3,7 +3,7 @@ LED 255 0 0
 UP
 REPEAT 100
 DOWN
-REPEAT 7
+REPEAT 6
 LEFT
 STRING Atmung vorhanden, frei, sicher
 LED 0 255 0

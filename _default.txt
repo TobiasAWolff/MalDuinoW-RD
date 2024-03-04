@@ -1,10 +1,8 @@
 LOCALE DE
 LED 255 0 0
-STRING Notfallgeschehen [
+STRING Notfallgeschehen [ 
 ENTER
-STRING eE [
-ENTER
-STRING AVPU [
+STRING eE [ 
 ENTER
 ENTER
 STRING _______________________________________
@@ -12,56 +10,56 @@ ENTER
 ENTER
 STRING A:
 ENTER
-STRING Atemwege [
+STRING Atemwege [ 
 ENTER
 ENTER
 STRING B:
 ENTER
-STRING Atemtiefe [
+STRING Atemtiefe [ 
 ENTER
-STRING Bewegung Brustkorb [
+STRING Bewegung Brustkorb [ 
 ENTER
-STRING pathologische Atemgeräusche [
+STRING pathologische Atemgeräusche [ 
 ENTER
-STRING Einsatz Atemhilfsmuskulatur [
+STRING Einsatz Atemhilfsmuskulatur [ 
 ENTER
-STRING Zyanose [
+STRING Zyanose [ 
 ENTER
-STRING gestaute Halsvenen [
+STRING gestaute Halsvenen [ 
 ENTER
 ENTER
 STRING C:
 ENTER
-STRING Radialispuls [
+STRING Radialispuls [ 
 ENTER
-STRING Rhythmus [
+STRING Rhythmus [ 
 ENTER
-STRING Haut [
+STRING Haut [ 
 ENTER
-STRING Recap [
+STRING Recap [ 
 ENTER
-STRING Exsikkose [
+STRING Exsikkose [ 
 ENTER
-STRING Blutungen [
+STRING Blutungen [ 
 ENTER
-STRING EKG [
+STRING EKG [ 
 ENTER
 ENTER
 STRING D:
 ENTER
-STRING GCS [
+STRING GCS [ 
 ENTER
-STRING ZOPS [
+STRING ZOPS [ 
 ENTER
-STRING FAST [
+STRING FAST [ 
 ENTER
-STRING MDS [
+STRING MDS [ 
 ENTER
-STRING Pupillen [
+STRING Pupillen [ 
 ENTER
-STRING Intox [
+STRING Intox [ 
 ENTER
-STRING Nausea, Vertigo, Meningismus [
+STRING Nausea, Vertigo, Meningismus [ 
 ENTER
 ENTER
 STRING E:
@@ -71,24 +69,23 @@ LED 0 0 255
 STRING _______________________________________
 ENTER
 ENTER
-STRING S [
+STRING S [ 
 ENTER
-STRING A [
+STRING A [ 
 ENTER
-STRING M [
+STRING M [ 
 ENTER
-STRING P [
+STRING P [ 
 ENTER
-STRING L [
+STRING L [ 
 ENTER
-STRING E [
+STRING E [ 
 ENTER
-STRING R [
+STRING R [ 
 ENTER
 ENTER
 STRING _______________________________________
 ENTER
 ENTER
 STRING Transport verläuft eventlos/komplikationslos
-ENTER
 LED 0 255 0

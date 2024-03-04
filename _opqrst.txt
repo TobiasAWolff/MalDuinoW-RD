@@ -7,20 +7,20 @@ ENTER
 STRING _______________________________________
 ENTER
 ENTER
-STRING O [
+STRING O [ 
 ENTER
-STRING P [
+STRING P [ 
 ENTER
-STRING Q [
+STRING Q [ 
 ENTER
-STRING R [
+STRING R [ 
 ENTER
 STRING S [ 
 ENTER
-STRING T [
+STRING T [ 
 ENTER
 ENTER
-STRING --------
+STRING !!!!!==================!!!!!
 ENTER
 STRING Onset
 ENTER
@@ -33,4 +33,6 @@ ENTER
 STRING Severity
 ENTER
 STRING Time
+ENTER
+STRING !!!!!==================!!!!!
 LED 0 255 0
