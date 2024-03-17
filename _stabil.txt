@@ -1,5 +1,9 @@
 LOCALE DE
 LED 255 0 0
+UP
+REPEAT 200
+ENTER
+UP
 STRING Notfallgeschehen [ 
 ENTER
 ENTER
@@ -31,4 +35,5 @@ STRING _______________________________________
 ENTER
 ENTER
 STRING Transport verläuft eventlos
+ENTER
 LED 0 255 0

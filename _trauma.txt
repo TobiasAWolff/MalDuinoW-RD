@@ -1,22 +1,22 @@
 LOCALE DE
 LED 255 0 0
 UP
-REPEAT 100
+REPEAT 200
 DOWN
 REPEAT 1
-STRING Position Pat [
+STRING Position Pat [ 
 ENTER
-STRING Umfeld [
+STRING Umfeld [ 
 ENTER
-STRING Kinematik [
+STRING Kinematik [ 
 ENTER
-STRING Anwesende [
+STRING Anwesende [ 
 ENTER
-STRING Zeitpunkt [
+STRING Zeitpunkt [ 
 ENTER
 DOWN
 REPEAT 32
 LEFT
 ENTER
-STRING Ganzkörper [
+STRING Ganzkörper [ 
 LED 0 255 0

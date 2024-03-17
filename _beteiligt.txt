@@ -1,11 +1,11 @@
 LOCALE DE
 LED 255 0 0
 DOWN
-REPEAT 100
+REPEAT 200
 ENTER
 ENTER
 STRING _______________________________________
 ENTER
 ENTER
-STRING Beteiligte Einsatzmittel:
+STRING Beteiligte Einsatzmittel: 
 LED 0 255 0

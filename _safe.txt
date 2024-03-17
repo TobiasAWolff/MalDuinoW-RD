@@ -1,8 +1,12 @@
 LOCALE DE
 LED 255 0 0
+UP
+REPEAT 200
+ENTER
+UP
 STRING Notfallgeschehen [ 
 ENTER
-STRING eE [keine c, keine HWS-V., vital stabil
+STRING eE [ keine c, keine HWS-V., vital stabil
 ENTER
 ENTER
 STRING _______________________________________
@@ -10,46 +14,46 @@ ENTER
 ENTER
 STRING A:
 ENTER
-STRING Atemwege [Atmung vorhanden, frei, sicher
+STRING Atemwege [ Atmung vorhanden, frei, sicher
 ENTER
 ENTER
 STRING B:
 ENTER
-STRING Atemtiefe [normal
+STRING Atemtiefe [ normal
 ENTER
-STRING Bewegung Brustkorb [seitengleiche Thoraxexkursionen
+STRING Bewegung Brustkorb [ seitengleiche Thoraxexkursionen
 ENTER
-STRING pathologische Atemgeräusche [keine patholog. Atemgeräusche
+STRING pathologische Atemgeräusche [ keine patholog. Atemgeräusche
 ENTER
-STRING Einsatz Atemhilfsmuskulatur [keinen
+STRING Einsatz Atemhilfsmuskulatur [ keinen
 ENTER
-STRING Zyanose [keine
+STRING Zyanose [ keine
 ENTER
 ENTER
 STRING C:
 ENTER
-STRING Radialispuls [bds. gut tastbar
+STRING Radialispuls [ bds. gut tastbar
 ENTER
-STRING Rhythmus [rhythmisch, regelmäßig
+STRING Rhythmus [ rhythmisch, regelmäßig
 ENTER
-STRING Haut [rosig, warm, trocken
+STRING Haut [ rosig, warm, trocken
 ENTER
-STRING Recap [peripher & zentral <2s
+STRING Recap [ peripher & zentral <2s
 ENTER
-STRING Exsikkose [nicht vorhanden
+STRING Exsikkose [ nicht vorhanden
 ENTER
 ENTER
 STRING D:
 ENTER
-STRING GCS [15
+STRING GCS [ 15
 ENTER
-STRING ZOPS [orientiert
+STRING ZOPS [ orientiert
 ENTER
-STRING MS [OEx/UEx bds. grob unauffällig
+STRING MS [ OEx/UEx bds. grob unauffällig
 ENTER
-STRING Pupillen [isokor, lichtreaktiv
+STRING Pupillen [ isokor, lichtreaktiv
 ENTER
-STRING Intox [negativ
+STRING Intox [ negativ
 ENTER
 ENTER
 STRING E:
@@ -78,4 +82,5 @@ STRING _______________________________________
 ENTER
 ENTER
 STRING Transport verläuft eventlos/komplikationslos
+ENTER
 LED 0 255 0

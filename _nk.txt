@@ -1,7 +1,7 @@
 LOCALE DE
 LED 255 0 0
 DOWN
-REPEAT 100
+REPEAT 200
 ENTER
 ENTER
 STRING _______________________________________
@@ -9,9 +9,9 @@ ENTER
 ENTER
 STRING NOTKOMPETENZ
 ENTER
-STRING Indikation laut RK-Algorithmus:
+STRING Indikation laut RK-Algorithmus: 
 ENTER
-STRING folgende Kontraindikationen beachtet/besprochen:
+STRING folgende Kontraindikationen beachtet/besprochen: 
 ENTER
 STRING Abbruch wegen Kontraindikation:
 ENTER
@@ -21,13 +21,13 @@ STRING Pat willigt mündlich ein
 ENTER
 STRING Notarzt verständigt/informiert
 ENTER
-STRING Anzahl und Ort der Punktionsversuche:
+STRING Anzahl und Ort der Punktionsversuche: 
 ENTER
 STRING Komplikationen Venenzugang
 ENTER
-STRING Verabreichte Medikation:
+STRING Verabreichte Medikation: 
 ENTER
-STRING Komplikationen?
+STRING Komplikationen:
 ENTER
-STRING Ergebnis Erfolgskontrolle:
+STRING Ergebnis Erfolgskontrolle: 
 LED 0 255 0
