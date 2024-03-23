@@ -34,6 +34,8 @@ revers.txt
 
 nk.txt
 
+fa.txt
+
 belassung.txt
 
 beteiligt.txt
